@@ -6,7 +6,7 @@ height,width,ch = img.shape
 # three points from the source image
 src_pts = np.float32([[32,32],[128,32],[32,128]])
 # three points from the destination image
-dst_pts = np.float32([[8,64],[128,16],[48,128]])
+dst_pts = np.float32([[8,64],[128,16],[48,64]])
 
 # draw points on the image
 for pt in src_pts:

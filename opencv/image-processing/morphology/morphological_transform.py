@@ -1,8 +1,8 @@
 import cv2
 import numpy as np
 
-img = cv2.imread('shiroha.png',0)
-# img = cv2.resize(img,None,fx=2,fy=2,interpolation=cv2.INTER_CUBIC)
+img = cv2.imread('sudoku.png',0)
+img = cv2.resize(img,None,fx=2,fy=2,interpolation=cv2.INTER_CUBIC)
 kernel = np.ones((5,5),np.uint8)
 
 erosion = cv2.erode(img,kernel,iterations=1)

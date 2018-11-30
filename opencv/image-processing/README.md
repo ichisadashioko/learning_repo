@@ -8,7 +8,7 @@
 - [x] [Canny Edge Detection](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_canny/py_canny.html)
 - [x] [Image Pyramids](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_pyramids/py_pyramids.html)
 - [x] [Contours in OpenCV](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_contours/py_table_of_contents_contours/py_table_of_contents_contours.html)
-- [ ] [Histograms in OpenCV](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_histograms/py_table_of_contents_histograms/py_table_of_contents_histograms.html#table-of-content-histograms)
+- [ ] [Histograms in OpenCV](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_histograms/py_table_of_contents_histograms/py_table_of_contents_histograms.html)
 - [ ] [Image Transforms in OpenCV](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_transforms/py_table_of_contents_transforms/py_table_of_contents_transforms.html)
 - [ ] [Template Matching](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_template_matching/py_template_matching.html)
 - [x] [Hough Line Transform](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_houghlines/py_houghlines.html)

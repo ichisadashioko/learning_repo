@@ -1,3 +1,4 @@
+# CLAHE (Constrast Limited Adaptive Histogram Equalization)
 import cv2
 import numpy as np
 

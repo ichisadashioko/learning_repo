@@ -8,4 +8,4 @@
 
 - [] [Boosted trees model understanding](https://www.tensorflow.org/tutorials/estimators/boosted_trees_model_understanding)
 
-- [] [Build a CNN using Estimators](https://www.tensorflow.org/tutorials/estimators/cnn)
+- [x] [Build a CNN using Estimators](https://www.tensorflow.org/tutorials/estimators/cnn)

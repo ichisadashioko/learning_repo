@@ -2,7 +2,7 @@
 
 - Eager execution provides an imperative, define-by-run interface for advanced operations. Write custom layers, forward passes, and training loops with auto differentiation.
 
-- [] [Eager execution](https://www.tensorflow.org/tutorials/eager/eager_basics)
+- [x] [Eager execution](https://www.tensorflow.org/tutorials/eager/eager_basics)
 
 - [] [Automatic differentiation and gradient tape](https://www.tensorflow.org/tutorials/eager/automatic_differentiation)
 

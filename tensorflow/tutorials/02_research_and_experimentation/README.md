@@ -4,7 +4,7 @@
 
 - [x] [Eager execution](https://www.tensorflow.org/tutorials/eager/eager_basics)
 
-- [] [Automatic differentiation and gradient tape](https://www.tensorflow.org/tutorials/eager/automatic_differentiation)
+- [x] [Automatic differentiation and gradient tape](https://www.tensorflow.org/tutorials/eager/automatic_differentiation)
 
 - [] [Custom training: basics](https://www.tensorflow.org/tutorials/eager/custom_training)
 

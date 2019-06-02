@@ -2,4 +2,4 @@
 - [x] [Histograms - 1 : Find, Plot, Analyze !!!](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_histograms/py_table_of_contents_histograms/../py_histogram_begins/py_histogram_begins.html)
 - [x] [Histograms - 2: Histogram Equalization](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_histograms/py_table_of_contents_histograms/../py_histogram_equalization/py_histogram_equalization.html)
 - [x] [Histograms - 3 : 2D Histograms](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_histograms/py_table_of_contents_histograms/../py_2d_histogram/py_2d_histogram.html)
-- [ ] [Histogram - 4 : Histogram Backprojection](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_histograms/py_table_of_contents_histograms/../py_histogram_backprojection/py_histogram_backprojection.html)
+- [] [Histogram - 4 : Histogram Backprojection](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_histograms/py_table_of_contents_histograms/../py_histogram_backprojection/py_histogram_backprojection.html)

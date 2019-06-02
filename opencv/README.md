@@ -8,5 +8,5 @@
 - [] [Camera Calibration and 3D Reconstruction](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_calib3d/py_table_of_contents_calib3d/py_table_of_contents_calib3d.html)
 - [] [Machine Learning](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_ml/py_table_of_contents_ml/py_table_of_contents_ml.html)
 - [] [Computational Photography](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_photo/py_table_of_contents_photo/py_table_of_contents_photo.html)
-- [] [Object Detection](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_objdetect/py_table_of_contents_objdetect/py_table_of_contents_objdetect.html)
+- [x] [Object Detection](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_objdetect/py_table_of_contents_objdetect/py_table_of_contents_objdetect.html)
 - [] [OpenCV-Python Bindings](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_bindings/py_table_of_contents_bindings/py_table_of_contents_bindings.html)

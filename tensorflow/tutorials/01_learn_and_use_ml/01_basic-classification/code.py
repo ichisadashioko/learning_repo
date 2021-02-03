@@ -1,5 +1,5 @@
 #@title MIT License
-# 
+#
 # Copyright (c) 2017 Francois Chollet
 #
 # Permission is hereby granted, free of charge, to any person obtaining a
@@ -96,7 +96,7 @@ def plot_image(i, predictions_array, true_label, img):
     plt.grid(False)
     plt.xticks([])
     plt.yticks([])
-    
+
     # plt.imshow(img,cmap=plt.cm.binary)
     plt.imshow(img,cmap='binary')
 

@@ -1,5 +1,5 @@
 import cv2
-import numpy as np 
+import numpy as np
 
 img = cv2.imread('sudoku.png',1)
 img = cv2.resize(img,None,fx=3,fy=3,interpolation=cv2.INTER_CUBIC)

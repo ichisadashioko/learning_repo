@@ -1,0 +1,4 @@
+training_1/
+training_2/
+*.h5
+checkpoints/
